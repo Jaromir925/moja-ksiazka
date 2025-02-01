@@ -1,0 +1,3 @@
+Rozdział 1
+
+git status
